@@ -1,4 +1,6 @@
-[![MasterHead](https://https://i.gifer.com/3fgu.gif)]
+[![MasterHead](https://i.gifer.com/3fgu.gif)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Samyam Adhikari</h1>
 <h3 align="center">I'm a Computer Science and IT Student with high dedication in computer field with learning attitude. I like doing research on Computer related stuffs and play around.</h3>
 
