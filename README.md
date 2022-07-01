@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **someaim1@gmail.com**
 
-- 📄 Know about my experiences [shaggy619.github.io/](shaggy619.github.io/)
+- 📄 Know about my experiences [shaggy619.github.io/](https://shaggy619.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
