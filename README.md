@@ -33,6 +33,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaggy619&show_icons=true&locale=en&layout=compact" alt="shaggy619" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy619&" alt="shaggy619" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaggy619&" alt="shaggy619" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaggy619" alt="shaggy619" /></a> </p>
