@@ -32,7 +32,7 @@
 
 # 📊 GitHub Stats:
 ![Samyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaggy619&theme=dark&show_icons=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaggy619&theme=dark)](https://git.io/streak-stats)</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaggy619&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaggy619&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
