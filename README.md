@@ -38,6 +38,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaggy619&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
----
+----
 
 
