@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaggy619&label=Profile%20views&color=0e75b6&style=flat" alt="shaggy619" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="370" src="https://i.giphy.com/media/yIt6BCCb8oI19g6CVm/giphy.webp">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
