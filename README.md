@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://csit-mate.blogspot.com](https://csit-mate.blogspot.com)
 
-- 📫 How to reach me **someaim1@gmail.com**
+- 📫 How to reach me **samyam.geek@gmail.com**
 
 - 📄 Know about my experiences [shaggy619.github.io/](https://shaggy619.github.io/)
 
