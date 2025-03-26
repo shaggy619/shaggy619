@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTfiKgRoVcwRuRdcHspESYIntMPVnUztoUPmqNNqwawcTJAgcu__M2WfyYb5BYs-6GN49ww664Ho_ajMRvF-MJY7GyiP1yOJ6epNXq32Y5WQw2VHzOobQKMJkIp982k1dtYADV8JAo2JWdtQ9U61dZZYTPvD1QyPI_XZZV2_fUX61HfOsUCfI4NVjTvBgz/s16000/samyamm.gif)](https://shaggy619.github.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTfiKgRoVcwRuRdcHspESYIntMPVnUztoUPmqNNqwawcTJAgcu__M2WfyYb5BYs-6GN49ww664Ho_ajMRvF-MJY7GyiP1yOJ6epNXq32Y5WQw2VHzOobQKMJkIp982k1dtYADV8JAo2JWdtQ9U61dZZYTPvD1QyPI_XZZV2_fUX61HfOsUCfI4NVjTvBgz/s16000/samyamm.gif)](https://samyamadhikari.com.np/)
 
 
 <h1 align="center">Hi 👋, I'm Samyam Adhikari</h1>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **samyam.geek@gmail.com**
 
-- 📄 Know about my experiences [shaggy619.github.io/](https://shaggy619.github.io/)
+- 📄 Know about my experiences [shaggy619.github.io/](https://samyamadhikari.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
