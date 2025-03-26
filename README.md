@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **samyam.geek@gmail.com**
 
-- 📄 Know about my experiences [shaggy619.github.io/](https://samyamadhikari.com.np/)
+- 📄 Know about my experiences [https://samyamadhikari.com.np/](https://samyamadhikari.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
